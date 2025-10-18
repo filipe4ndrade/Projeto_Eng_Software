@@ -148,14 +148,6 @@ npm test
 - **In-Memory Store**: Armazenamento simples para fins acadêmicos
 - **Mock APIs**: Simulação de dependências externas
 
-## � Base Científica
-
-As probabilidades utilizadas são baseadas em:
-- 📄 Estudos epidemiológicos peer-reviewed da COVID-19
-- 🌍 Dados oficiais da OMS (Organização Mundial da Saúde)
-- 🔬 Literatura médica sobre sensibilidade/especificidade de sintomas
-- 📊 Metanálises de sintomas COVID-19 publicadas
-
 ## 🤝 Contribuição
 
 ```bash
@@ -176,19 +168,5 @@ git push origin feature/nova-funcionalidade
 
 **Disciplina**: Engenharia de Software  
 **Instituição**: IFSudesteMG  
-**Objetivo**: Demonstrar aplicação prática de:
-- Padrões de arquitetura (MVC)
-- Algoritmos probabilísticos (Bayes)
-- Testes automatizados (TDD/BDD)
-- Boas práticas de desenvolvimento
-
-## 📞 Suporte
-
-🐛 **Problemas?**  
-1. Abra uma [Issue no GitHub](https://github.com/filipe4ndrade/Projeto_Eng_Software/issues)
-2. Verifique os logs no terminal (`npm start`)
-3. Consulte a documentação inline do código
-
----
 
 ⚕️ **Aviso Médico**: Este sistema é **exclusivamente educacional** e não deve ser usado para diagnósticos médicos reais. Sempre consulte profissionais de saúde qualificados.
