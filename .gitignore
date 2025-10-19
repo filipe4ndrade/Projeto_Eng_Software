@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# Test reports (generated)
+coverage/
+cucumber_report.*
+junit.xml
+
+# Cache
+.npm
+.jest/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+
